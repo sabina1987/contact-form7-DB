@@ -1,1 +1,1 @@
-# create custom contact-form7-DB plugin
+# create custom contact-form7-DB Wordpress plugin
