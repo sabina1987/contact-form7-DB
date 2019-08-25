@@ -1,6 +1,4 @@
-
-
-//add submenu CF7DB under by admin tools menu
+//add submenu CF7DB under by admin tools menu and show contact lists
 
 add_action('admin_menu', 'tool_submenu_page');
  
