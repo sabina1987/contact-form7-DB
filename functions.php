@@ -20,7 +20,7 @@ function cf7_db_submenu_page_callback() {
     global $wpdb;
     $table_name = $wpdb->prefix . "cf7database";	    
 	$contactlist = $wpdb->get_results( "SELECT * FROM $table_name ORDER BY id DESC" );
-	   //print_r($customerlist);
+	   //print_r($contactlist);
 	    $i=1;
 ?>
 
